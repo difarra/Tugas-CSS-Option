@@ -1,0 +1,16 @@
+body{
+	font-family: arial;
+}
+.Myheader{
+	background-color:#0066ff;
+	color: #001a66;
+	padding: 10px 20px;
+}
+p{
+	background-color:  #262626;
+	color: #ffffff;
+}
+h2{
+	padding: 10px 15px;
+	background-color: aqua;
+}
